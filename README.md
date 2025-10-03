@@ -5,7 +5,7 @@
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)]()  
 
 ## 📖 Project Overview  
-Graduate project applying Latent Dirichlet Allocation (LDA) to Biblical texts across multiple translations. Includes preprocessing notebooks, topic modeling with Gensim, interactive pyLDAvis visualizations, and a final project report.  
+Topic modeling project applying Latent Dirichlet Allocation (LDA) with Gensim to multiple Bible translations. Includes preprocessing notebooks, interactive pyLDAvis visualizations, and comparative analysis across versions.  
 
 ## 📂 Repository Structure  
 ```
